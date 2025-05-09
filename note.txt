@@ -1,0 +1,4 @@
+cd /home/shtp/Desktop/Team_59
+csh
+source	SNPS_TOOL_SETUP.csh
+icc2_shell
